@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Time Series Analysis and Forecasting with SARIMAX and Facebokk Prophet models: An Intro
+# :chart_with_upwards_trend: Time Series Analysis and Forecasting with SARIMAX and Facebook Prophet models: An Intro
 
 ![](https://github.com/dpbac/mkb-time-series-tutorial/blob/master/images/aron-visuals-BXOXnQ26B7o-unsplash.jpg)
 Photo by <a href="https://unsplash.com/@aronvisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aron Visuals</a> on <a href="https://unsplash.com/@aronvisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
