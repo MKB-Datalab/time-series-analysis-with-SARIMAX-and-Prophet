@@ -6,7 +6,7 @@ Photo by <a href="https://unsplash.com/@aronvisuals?utm_source=unsplash&utm_medi
 
 This repository presents in three notebooks some basics about time series and introduceS SARIMAX models and Facebook Prophet forecasting algorithm.
 
-In **[01-Intro_time_series_tutorial.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial_MKB.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
+In **[01-Intro_time_series_tutorial.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb)** you learn about time series properties and how to identify them using both statistical and graphical tools.
 
 Next, in **[02-Forecasting_with_SARIMAX.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a [store-item sales data](https://www.kaggle.com/c/demand-forecasting-kernels-only) and forecast the sales 3 months in the future.
 
