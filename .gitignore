@@ -1,0 +1,12 @@
+data/raw/time-series-archive/
+data/temp/
+temp/
+docs/
+images-blog/
+notebooks_archive_220721/
+notebooks_temp/
+notebooks/.ipynb_checkpoints/
+notebooks/02-Forecasting_with_ARIMA-REVIEW.ipynb
+requirements.txt
+notebooks/Untitled.ipynb
+model/
