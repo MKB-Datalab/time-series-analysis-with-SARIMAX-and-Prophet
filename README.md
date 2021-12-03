@@ -6,11 +6,11 @@ Photo by <a href="https://unsplash.com/@aronvisuals?utm_source=unsplash&utm_medi
 
 This repository presents in three notebooks some basics about time series and introduce SARIMAX models and Facebook Prophet forecasting algorithm.
 
-In **[01-Intro_time_series_tutorial.ipynb](https://github.com/dpbac/mkb-time-series-tutorial/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb)** you will learn about time series properties and how to identify them using both statistical and graphical tools.
+In **[01-Intro_time_series_tutorial.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/01-Intro_time_series_tutorial.ipynb)** you will learn about time series properties and how to identify them using both statistical and graphical tools.
 
-Next, in **[02-Forecasting_with_SARIMAX.ipynb](https://github.com/dpbac/mkb-time-series-tutorial/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a part of the and forecast the sales 3 months in the future.
+Next, in **[02-Forecasting_with_SARIMAX.ipynb](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/02-Forecasting_with_SARIMAX.ipynb)** you are introduced to ARIMA models and its variants. There we apply SARIMA model on a part of the and forecast the sales 3 months in the future.
 
-In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://github.com/dpbac/mkb-time-series-tutorial/blob/master/notebooks/03-Forecasting_with_Facebook_Prophet.ipynb)**, we introduce Facebook Prophet. We compare it with other models such as SARIMAX and apply it to the same dataset. We finalize by comparing the performance of all models obtained (SARIMA and Prophet models).
+In the last notebook, **[03-Forecasting_with_Facebook_Prophet.ipynb ](https://github.com/MKB-Datalab/time-series-analysis-with-SARIMAX-and-Prophet/blob/master/notebooks/03-Forecasting_with_Facebook_Prophet.ipynb)**, we introduce Facebook Prophet. We compare it with other models such as SARIMAX and apply it to the same dataset. We finalize by comparing the performance of all models obtained (SARIMA and Prophet models).
 
 ## :file_folder: Data
 
